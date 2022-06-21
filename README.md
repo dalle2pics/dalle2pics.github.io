@@ -1,4 +1,4 @@
-# dalle2pics.github.io
+# DALLE2 Pics
 
 ## Follow Dalle2 Pics
 
