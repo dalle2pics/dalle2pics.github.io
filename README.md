@@ -2,6 +2,7 @@
 
 ## Follow Dalle2 Pics
 
+- Follow us on [Instagram](https://www.instagram.com/dalle2_pics/)!
 - Blog with all posts: [dalle2.tumblr.com](https://dalle2.tumblr.com/)
 - Imgur public uploads: [imgur.com/user/Dalle2Pics](https://imgur.com/user/Dalle2Pics)
 - Blogger reposts of Tumblr: [dalle2.blogspot.com](https://dalle2.blogspot.com/)
