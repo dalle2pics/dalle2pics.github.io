@@ -1,3 +1,4 @@
+<script src="https://cdn.tailwindcss.com"></script>
 # DALLE2 Pics
 
 ## Follow Dalle2 Pics
@@ -13,4 +14,10 @@
 
 ![Dalle2 Image Header](FVhGcYOUAAAr60b.jpeg)
 
-<script type='text/javascript' src='https://dalle2.tumblr.com/js'></script>
+<div class="grid grid-flow-col auto-cols-max">
+  
+<div><script type='text/javascript' src='https://dalle2.tumblr.com/js'></script></div>
+
+<div><a class="twitter-timeline" href="https://twitter.com/Dalle2AI?ref_src=twsrc%5Etfw">Tweets by Dalle2AI</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+  
+</div>
