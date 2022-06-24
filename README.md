@@ -15,7 +15,7 @@
 
 ![Dalle2 Image Header](FVhGcYOUAAAr60b.jpeg)
 
-<div class="grid grid-flow-col auto-cols-max">
+<div class="grid grid-cols-1 md:grid-cols-2">
   
 <div><script type='text/javascript' src='https://dalle2.tumblr.com/js'></script></div>
 
